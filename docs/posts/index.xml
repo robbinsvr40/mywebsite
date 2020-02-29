@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Name is Stephen</title>
+    <title>Posts on My Website</title>
     <link>https://vince-robbins.com/posts/</link>
-    <description>Recent content in Posts on My Name is Stephen</description>
+    <description>Recent content in Posts on My Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 10:46:59 -0800</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My Thoughts</title>
+      <title>Lorem</title>
       <link>https://vince-robbins.com/posts/my-first-post/</link>
       <pubDate>Sat, 29 Feb 2020 10:46:59 -0800</pubDate>
       
       <guid>https://vince-robbins.com/posts/my-first-post/</guid>
-      <description>Let me see the peepee</description>
+      <description>Ipsum</description>
     </item>
     
   </channel>
