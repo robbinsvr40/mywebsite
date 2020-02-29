@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vince-robbins.com/categories/</loc>
+    <loc>https://vince-robbins.com/</loc>
+    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vince-robbins.com/</loc>
+    <loc>https://vince-robbins.com/posts/my-first-post/</loc>
+    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vince-robbins.com/posts/</loc>
+    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vince-robbins.com/categories/</loc>
   </url>
   
   <url>
