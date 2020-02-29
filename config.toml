@@ -1,5 +1,5 @@
 baseURL = "https://vince-robbins.com"
 languageCode = "en-us"
-title = "My Cool Website"
+title = "My Name is Stephen"
 theme = "ananke"
 publishDir = "./docs"
