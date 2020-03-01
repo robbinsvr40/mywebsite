@@ -12,14 +12,32 @@
   
   <url>
     <loc>http://vince-robbins.com/blog/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vince-robbins.com/blog/hipster-ipsum/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://vince-robbins.com/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vince-robbins.com/tags/ipsum/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://vince-robbins.com/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vince-robbins.com/tags/words/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -6,17 +6,27 @@
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vince-robbins.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>C&#43;&#43; Qt Sidscroller</title>
+      <title>C&#43;&#43; Qt Sidescroller</title>
       <link>http://vince-robbins.com/projects/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vince-robbins.com/projects/photography/</guid>
       <description>Photos coming soon! This is currently a work in progress!</description>
+    </item>
+    
+    <item>
+      <title>First Post!</title>
+      <link>http://vince-robbins.com/blog/hipster-ipsum/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://vince-robbins.com/blog/hipster-ipsum/</guid>
+      <description>Hello! This is my first post! Excuse the disorganization, this site is currently under construction!</description>
     </item>
     
   </channel>
