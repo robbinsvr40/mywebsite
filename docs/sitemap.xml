@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://vince-robbins.com/posts/my-first-post/</loc>
-    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vince-robbins.com/</loc>
-    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vince-robbins.com/posts/</loc>
-    <lastmod>2020-02-29T10:46:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vince-robbins.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vince-robbins.com/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://vince-robbins.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2017-11-13T11:58:39-05:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://vince-robbins.com/de/sitemap.xml</loc>
+		
+	   	<lastmod>2017-11-13T11:58:39-05:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://vince-robbins.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-11-13T11:58:39-05:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
