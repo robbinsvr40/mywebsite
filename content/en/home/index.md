@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Vince Robbins"
 headless: true
 ---
 
-I'm a theme for Hugo
+Hello! I am a student at University of California - Los Angeles
