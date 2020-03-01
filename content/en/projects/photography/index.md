@@ -1,5 +1,5 @@
 ---
-title: "C++ Qt Sidscroller"
+title: "C++ Qt Sidescroller"
 weight: 1
 ---
 
