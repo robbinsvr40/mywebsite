@@ -1,8 +1,8 @@
 ---
-title: "Photography"
+title: "C++ Qt Sidscroller"
 weight: 1
 ---
 
-## Sometimes I take pictures
+## Photos coming soon!
 
-This project is about the pictures I take. Sometimes, they are pictures of cats.
+This is currently a work in progress!

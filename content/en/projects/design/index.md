@@ -1,12 +1,10 @@
 ---
-title: "Design"
+title: "Empty"
 weight: 2
 resources:
-    - src: plant.jpg
+    - src: computer.jpeg
       params:
           weight: -100
 ---
 
-This theme was designed by [Victoria Drake](https://victoria.dev). Go on, explore! 💪
-
-If you want to use it for your website, check out the section at the bottom of the main page. 👍
+This project is currently a work in progress.

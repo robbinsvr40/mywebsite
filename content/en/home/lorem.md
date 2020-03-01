@@ -1,6 +1,7 @@
 ---
-title: "Lorem Ipsum"
+title: "Other Activities!"
 weight: 30
 ---
 
-You can add more sections to the home page by adding files to the `/content/home/` folder.
+* In Summer 2018, I participated in a UCLA Germanic Studies Abroad Program in Austria, Germany, and Switzerland!
+* I have spent some time over the last few months as a Student Volunteer with TreePeople, in Coldwater Canyon Park!

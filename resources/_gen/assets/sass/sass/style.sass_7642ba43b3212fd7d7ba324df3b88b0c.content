@@ -7337,7 +7337,7 @@ pre {
   color: #ed6a5a; }
 
 .modal-card-body {
-  background-color: #001617; }
+  background-color: rgba(0, 0, 0, 0.5); }
 
 .markdown strong {
   color: #ffffff; }
