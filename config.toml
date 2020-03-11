@@ -6,7 +6,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 # googleAnalytics                = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
+    themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
@@ -30,7 +30,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = false
+        twitter                  = true
         facebook                 = false
         googlePlus               = false
         pinterest                = false
@@ -67,8 +67,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #     url     = "/"
 #     weight  = 0
 # [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
+#     name    = "Posts"
+#     url     = "/posts/"
 #     weight  = 1
 
 # We only use tag as a taxonomies

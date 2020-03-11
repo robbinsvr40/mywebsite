@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Introduction</title>
+    <link>http://vince-robbins.com/home/</link>
+    <description>Recent content in Homes on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://vince-robbins.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://vince-robbins.com/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vince-robbins.com/home/about/</guid>
+      <description>I am currently a Los Angeles Resident. I am talented with analytical thinking – especially in the context of logical systems. I am also proficient in program organization, leadership in computer programming and conveying mathematics.
+Education Mathematics B.S. with Specialization in Computing | UCLA | 2020
+Important Coursework  Advanced Programming Numerical Methods Linear Algebra Statistics Discrete Mathematics Mathematical Logic Java – In Progress Algorithms – In Progress  Technical Skills  MATLAB C++ Qt LaTeX Typesetting  </description>
+    </item>
+    
+    <item>
+      <title>Other Activities</title>
+      <link>http://vince-robbins.com/home/other-activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vince-robbins.com/home/other-activities/</guid>
+      <description>In Summer 2018, I participated in a UCLA Germanic Studies Abroad Program in Austria, Germany, and Switzerland!
+I have spent some time over the last few months as a Student Volunteer with TreePeople, in Coldwater Canyon Park!
+In December 2018 and March 2019, I participated as a speaker in the UCLA Directed Reading Program Colloquium. My talks were focused on a field of Mathematics called, &amp;ldquo;Descriptive Set Theory.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://vince-robbins.com/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vince-robbins.com/home/contact/</guid>
+      <description>Phone: (818)-388-0517 </description>
+    </item>
+    
+    <item>
+      <title>Vince Robbins</title>
+      <link>http://vince-robbins.com/home/title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vince-robbins.com/home/title/</guid>
+      <description>Hello! I am a Senior Undergraduate studying Mathematics and Computing at the University of California - Los Angeles</description>
+    </item>
+    
+  </channel>
+</rss>

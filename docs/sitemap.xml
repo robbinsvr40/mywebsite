@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://vince-robbins.com/projects/photography/</loc>
+    <loc>http://vince-robbins.com/projects/sidescroller/</loc>
   </url>
   
   <url>
@@ -16,7 +16,17 @@
   </url>
   
   <url>
-    <loc>http://vince-robbins.com/blog/hipster-ipsum/</loc>
+    <loc>http://vince-robbins.com/tags/construction/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vince-robbins.com/tags/first/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vince-robbins.com/blog/firstpost/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -26,17 +36,7 @@
   </url>
   
   <url>
-    <loc>http://vince-robbins.com/tags/ipsum/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://vince-robbins.com/tags/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://vince-robbins.com/tags/words/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
