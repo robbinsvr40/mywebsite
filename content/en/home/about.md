@@ -17,8 +17,9 @@ Mathematics B.S. with Specialization in Computing | UCLA | 2020
 * Statistics
 * Discrete Mathematics
 * Mathematical Logic
-* Java – In Progress
-* Algorithms – In Progress
+* Java 
+* Algorithms 
+* Physics
 
 
 ### Technical Skills
@@ -27,3 +28,4 @@ Mathematics B.S. with Specialization in Computing | UCLA | 2020
 * C++ 
 * Qt
 * LaTeX Typesetting
+* Java
